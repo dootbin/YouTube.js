@@ -20,7 +20,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^1.6.0",
     "flat": "^5.0.2",
     "protons": "^2.0.3",
     "user-agents": "^1.0.778",
